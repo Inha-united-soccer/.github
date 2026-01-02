@@ -4,8 +4,11 @@
 We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis Lab, and RILS Lab) at **Inha University**, Incheon, South Korea.
 
 <div align="center">
-    <img src="assets/soccer_team.jpeg" width="800"/>    
-    <sub><b>Inha-United@Soccer</b></sub>
+
+<img src="assets/soccer_team.jpeg" width="800"/>
+
+<sub><b>Inha-United@Soccer</b></sub>
+
 </div>
 
 ------
@@ -16,8 +19,8 @@ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis 
 ------
 ### Robots 
 <div align="center">
-    <img src="assets/two_k1.jpeg" width="600"/>
-    <sub><b>Booster K1</b></sub>
+<img src="assets/two_k1.jpeg" width="800"/>
+<sub><b>Booster K1</b></sub>
 </div>
 
 * Height : Approximately 0.9m
