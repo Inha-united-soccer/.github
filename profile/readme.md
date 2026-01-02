@@ -41,6 +41,8 @@ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis 
 
 * [INHA_Vision](https://github.com/Inha-united-soccer/INHA_Vision) -  Vision system for perception in autonomous soccer robots.
 
+* [INHA_Localization](https://github.com/Inha-united-soccer/INHA_Localization) - Localization and state estimation for autonomous soccer robots
+
 ---
 ### Principal Investigator
 * Yonggun Cho
