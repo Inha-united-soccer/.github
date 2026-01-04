@@ -15,7 +15,7 @@ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis 
 ### Resources
 * ⚽️ [Team Website](https://inha-united.github.io/Soccer2026/)
 * 📝 TDP 추가 필요
-* 📷 [Our Youtube link](https://www.youtube.com/@Inha-United_Soccer)
+* 📷 [Our Youtube](https://www.youtube.com/@Inha-United_Soccer)
 ------
 ### Robots 
 <div align="center">
@@ -63,7 +63,7 @@ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis 
   <tr>
     <td align="center" bgcolor="white">
       <a href="https://sparolab.github.io" target="_blank">
-        <img src="/profile/assets/sparo.png" width="150" height="80"/><br />
+        <img src="/profile/assets/sparo.png" width="150" height="90"/><br />
         <br />
         <b>SPARO Lab</b>
       </a>
@@ -76,7 +76,7 @@ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis 
     </td>
     <td align="center" bgcolor="white">
       <a href="https://artemis-inha.github.io/" target="_blank">
-        <img src="https://artemis-inha.github.io/assets/images/logo.jpg" width="150" height="80"/><br />
+        <img src="https://artemis-inha.github.io/assets/images/logo.jpg" width="150" height="100"/><br />
         <br />
         <b>ARTEMIS Lab</b>
       </a>
