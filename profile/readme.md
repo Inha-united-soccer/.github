@@ -59,7 +59,7 @@ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis 
 * suhyeon Shin
 * Jihun An
 ---
-<table align="center">
+<table align="center" bgcolor="white">
   <tr>
     <td align="center" bgcolor="white">
       <a href="https://sparolab.github.io" target="_blank">
