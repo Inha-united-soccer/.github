@@ -64,7 +64,7 @@ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis 
     <td align="center" bgcolor="white">
       <a href="https://sparolab.github.io" target="_blank">
         <img src="/profile/assets/sparo.png" width="150" height="80"/><br />
-        <br /><br />
+        <br />
         <b>SPARO Lab</b>
       </a>
     </td>
@@ -77,7 +77,7 @@ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis 
     <td align="center" bgcolor="white">
       <a href="https://artemis-inha.github.io/" target="_blank">
         <img src="https://artemis-inha.github.io/assets/images/logo.jpg" width="150" height="80"/><br />
-        <br /><br />
+        <br />
         <b>ARTEMIS Lab</b>
       </a>
     </td>
