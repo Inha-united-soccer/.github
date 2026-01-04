@@ -63,25 +63,25 @@ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis 
   <tr>
     <td align="center" bgcolor="white">
       <a href="https://sparolab.github.io" target="_blank">
-        <img src="/profile/assets/sparo.png" width="120" /><br />
+        <img src="/profile/assets/sparo.png" width="150" /><br />
         <b>SPARO Lab</b>
       </a>
     </td>
     <td align="center" bgcolor="white">
       <a href="https://rcv-inha.notion.site/webhome" target="_blank">
-        <img src="/profile/assets/RCVLAB.png" width="120" /><br />
+        <img src="/profile/assets/RCVLAB.png" width="150" /><br />
         <b>RCV Lab</b>
       </a>
     </td>
     <td align="center" bgcolor="white">
       <a href="https://artemis-inha.github.io/" target="_blank">
-        <img src="https://artemis-inha.github.io/assets/images/logo.jpg" width="120" /><br />
+        <img src="https://artemis-inha.github.io/assets/images/logo.jpg" width="150" /><br />
         <b>ARTEMIS Lab</b>
       </a>
     </td>
     <td align="center" bgcolor="white">
       <a href="https://wjahn.github.io/rils/" target="_blank">
-        <img src="https://wjahn.github.io/rils/assets/images/logo_inha.png" width="120" /><br />
+        <img src="https://wjahn.github.io/rils/assets/images/logo_inha.png" width="150" /><br />
         <b>RILS Lab</b>
       </a>
     </td>
