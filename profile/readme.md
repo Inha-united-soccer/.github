@@ -59,27 +59,31 @@ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis 
 * suhyeon Shin
 * Jihun An
 ---
-<table align="center" bgcolor="white">
+
+<table align="center" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
-    <td align="center" bgcolor="white">
+    <td align="center" style="background:#fff; padding:18px; border-right:1px solid #ddd;">
       <a href="https://sparolab.github.io" target="_blank">
         <img src="/profile/assets/sparo.png" width="120" /><br />
         <b>SPARO Lab</b>
       </a>
     </td>
-    <td align="center" bgcolor="white">
+
+    <td align="center" style="background:#fff; padding:18px; border-right:1px solid #ddd;">
       <a href="https://rcv-inha.notion.site/webhome" target="_blank">
         <img src="/profile/assets/RCVLAB.png" width="120" /><br />
         <b>RCV Lab</b>
       </a>
     </td>
-    <td align="center" bgcolor="white">
+
+    <td align="center" style="background:#fff; padding:18px; border-right:1px solid #ddd;">
       <a href="https://artemis-inha.github.io/" target="_blank">
         <img src="https://artemis-inha.github.io/assets/images/logo.jpg" width="120" /><br />
         <b>ARTEMIS Lab</b>
       </a>
     </td>
-    <td align="center" bgcolor="white">
+
+    <td align="center" style="background:#fff; padding:18px;">
       <a href="https://wjahn.github.io/rils/" target="_blank">
         <img src="https://wjahn.github.io/rils/assets/images/logo_inha.png" width="120" /><br />
         <b>RILS Lab</b>
