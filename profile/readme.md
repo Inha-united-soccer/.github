@@ -13,7 +13,7 @@ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis 
 
 ------
 ### Resources
-* ⚽️ [Team Website](https://inha-united.github.io/Soccer2026/)
+* ⚽️ [Team Website](https://inha-united-soccer.github.io/Soccer2026/)
 * 📷 [Our Youtube](https://www.youtube.com/@Inha-United_Soccer)
 * 📝 TDP is scheduled to be uploaded soon!
 ------
