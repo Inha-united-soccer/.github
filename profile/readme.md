@@ -1,5 +1,5 @@
 
-## Inha-united-soccer
+# Inha-united-soccer
 
 Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis Lab, and RILS Lab) at **Inha University**, Incheon, South Korea.
 
