@@ -11,12 +11,11 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 
 </div>
 
-------
 ## Resources
 * ⚽️ [Team Website](https://inha-united-soccer.github.io/Soccer2026/)
 * 📷 [Our Youtube](https://www.youtube.com/@Inha-United_Soccer)
 * 📝 TDP is scheduled to be uploaded soon!
-------
+
 ## Robots 
 <div align="center">
 <img src="assets/two_k1.jpeg" width="800"/>
@@ -28,7 +27,7 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 * DoF : 22 DoF (Legs: 6 DoF × 2, Arms: 4 DoF × 2, Head: 2 DoF)
 * Processor : NVIDIA Jetson Orin NX (8GB)
 * Sensors : RGB-D Camera, Microphone Array, Speaker, 9-axis IMU
----
+
 
 ## Projects
 * [INHA_Soccer](https://github.com/Inha-united-soccer/INHA_Soccer) - Unified Autonomous Soccer Robot Repository
@@ -44,7 +43,7 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 
 * [INHA_Localization](https://github.com/Inha-united-soccer/INHA_Localization) - Localization and state estimation for autonomous soccer robots
 
----
+
 ## Principal Investigator
 * Yonggun Cho
 * Inwook Shim
@@ -58,7 +57,7 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 * Mingyu Kim
 * suhyeon Shin
 * Jihun An
----
+
 <table align="center" bgcolor="white">
   <tr>
     <td align="center" bgcolor="white">
