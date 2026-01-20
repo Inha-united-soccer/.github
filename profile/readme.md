@@ -1,5 +1,5 @@
 
-### Welcome! ✋ 
+## Welcome! ✋ 
 
 We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis Lab, and RILS Lab) at **Inha University**, Incheon, South Korea.
 
@@ -12,12 +12,12 @@ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis 
 </div>
 
 ------
-### Resources
+## Resources
 * ⚽️ [Team Website](https://inha-united-soccer.github.io/Soccer2026/)
 * 📷 [Our Youtube](https://www.youtube.com/@Inha-United_Soccer)
 * 📝 TDP is scheduled to be uploaded soon!
 ------
-### Robots 
+## Robots 
 <div align="center">
 <img src="assets/two_k1.jpeg" width="800"/>
 
@@ -30,7 +30,7 @@ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis 
 * Sensors : RGB-D Camera, Microphone Array, Speaker, 9-axis IMU
 ---
 
-### Projects
+## Projects
 * [INHA_Soccer](https://github.com/Inha-united-soccer/INHA_Soccer) - Unified Autonomous Soccer Robot Repository
 
 * [INHA_Striker](https://github.com/Inha-united-soccer/INHA_Striker) -   Striker behavior and decision logic
@@ -45,13 +45,13 @@ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis 
 * [INHA_Localization](https://github.com/Inha-united-soccer/INHA_Localization) - Localization and state estimation for autonomous soccer robots
 
 ---
-### Principal Investigator
+## Principal Investigator
 * Yonggun Cho
 * Inwook Shim
 * Junwoo Jang
 * Woojin Ahn
 
-### Team Member
+## Team Member
 * JaeYuk Seung
 * Eunbyeol Ko
 * Eungkyu Kim
