@@ -60,33 +60,18 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 * suhyeon Shin
 * Jihun An
 
-<table align="center" bgcolor="white">
-  <tr>
-    <td align="center" bgcolor="white">
-      <a href="https://sparolab.github.io" target="_blank">
-        <img src="/profile/assets/sparo.png" width="150" height="90"/><br />
-        <br />
-        <b>SPARO Lab</b>
-      </a>
-    </td>
-    <td align="center" bgcolor="white">
-      <a href="https://rcv-inha.notion.site/webhome" target="_blank">
-        <img src="/profile/assets/RCVLAB.png" width="150" height="80" /><br />
-        <b>RCV Lab</b>
-      </a>
-    </td>
-    <td align="center" bgcolor="white">
-      <a href="https://artemis-inha.github.io/" target="_blank">
-        <img src="https://artemis-inha.github.io/assets/images/logo.jpg" width="150" height="100"/><br />
-        <br />
-        <b>ARTEMIS Lab</b>
-      </a>
-    </td>
-    <td align="center" bgcolor="white">
-      <a href="https://wjahn.github.io/rils/" target="_blank">
-        <img src="https://wjahn.github.io/rils/assets/images/logo_inha.png" width="130" height="80"/><br />
-        <b>RILS Lab</b>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center"> <table> <tr> <td align="center"><a href="https://rcv-inha.notion.site/webhome"><img src="/profile/assets/RCVLAB.png" height="50">
+
+
+<b>RCV Lab</b></a></td> <td align="center"><a href="https://sparolab.github.io"><img src="/profile/assets/sparo.png" height="50">
+
+
+<b>SPARO Lab</b></a></td> <td align="center"><a href="https://artemis-inha.github.io/"><img src="https://artemis-inha.github.io/assets/images/logo.jpg" height="50">
+
+
+<b>ARTEMIS Lab</b></a></td> <td align="center"><a href="https://wjahn.github.io/rils/"><img src="https://wjahn.github.io/rils/assets/images/logo_inha.png" height="70">
+
+
+<b>RILS Lab</b></a></td> </tr> </table> </div>
+
+<div align="center"> Copyright © 2026 Inha-United. All Rights Reserved. </div>
