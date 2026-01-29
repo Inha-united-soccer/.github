@@ -66,17 +66,17 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 
 ## Software Architecture
 
-* [INHA_Soccer](https://github.com/Inha-united-soccer/INHA_Soccer) - Unified Autonomous Soccer Robot Repository
-
-* [INHA_Striker](https://github.com/Inha-united-soccer/INHA_Striker) -   Striker behavior and decision logic
-
-* [INHA_Defender](https://github.com/Inha-united-soccer/INHA_Defender) - Defender behavior and decision logic
-
-* [INHA_GoalKeeper](https://github.com/Inha-united-soccer/INHA_GoalKeeper) - Goalkeeper behavior and decision logic
-
-* [INHA_Vision](https://github.com/Inha-united-soccer/INHA_Vision) -  Vision system for perception in autonomous soccer robots.
-
-* [INHA_Localization](https://github.com/Inha-united-soccer/INHA_Localization) - Localization and state estimation for autonomous soccer robots
+>* [INHA_Soccer](https://github.com/Inha-united-soccer/INHA_Soccer) - Unified Autonomous Soccer Robot Repository
+>
+>* [INHA_Striker](https://github.com/Inha-united-soccer/INHA_Striker) -   Striker behavior and decision logic?
+>
+>* [INHA_Defender](https://github.com/Inha-united-soccer/INHA_Defender) - Defender behavior and decision logic
+>
+>* [INHA_GoalKeeper](https://github.com/Inha-united-soccer/INHA_GoalKeeper) - Goalkeeper behavior and decision logic
+>
+>* [INHA_Vision](https://github.com/Inha-united-soccer/INHA_Vision) -  Vision system for perception in autonomous soccer robots.
+>
+>* [INHA_Localization](https://github.com/Inha-united-soccer/INHA_Localization) - Localization and state estimation for autonomous soccer robots
 
 
 ## Research Team
