@@ -68,7 +68,7 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 </table>
 
 
-## 📂 Software Architecture
+## Software Architecture
 
 * [INHA_Soccer](https://github.com/Inha-united-soccer/INHA_Soccer) - Unified Autonomous Soccer Robot Repository
 
@@ -83,36 +83,19 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 * [INHA_Localization](https://github.com/Inha-united-soccer/INHA_Localization) - Localization and state estimation for autonomous soccer robots
 
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Core & Navigation</h4>
-      <ul>
-        <li><b><a href="https://github.com/Inha-united-soccer/INHA_Soccer">INHA_Soccer</a></b><br/><i>Unified Autonomous Soccer Robot Repository</i></li>
-        <li><b><a href="https://github.com/Inha-united-soccer/INHA_Localization">INHA_Localization</a></b><br/><i>Localization and state estimation for autonomous soccer robots
-</i></li>
-        <li><b><a href="https://github.com/Inha-united-soccer/INHA_Vision">INHA_Vision</a></b><br/><i>Vision system for perception in autonomous soccer robots.</i></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚽ Behavioral Intelligence</h4>
-      <ul>
-        <li><b><a href="https://github.com/Inha-united-soccer/INHA_Striker">INHA_Striker</a></b><br/><i>Striker behavior and decision logic</i></li>
-        <li><b><a href="https://github.com/Inha-united-soccer/INHA_Defender">INHA_Defender</a></b><br/><i>Defender behavior and decision logic</i></li>
-        <li><b><a href="https://github.com/Inha-united-soccer/INHA_GoalKeeper">INHA_GoalKeeper</a></b><br/><i>Goalkeeper behavior and decision logic</i></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## 👥 Research Team
+## Research Team
 
 ### Principal Investigators
-| **Yonggun Cho** | **Inwook Shim** | **Junwoo Jang** | **Woojin Ahn** |
-| :---: | :---: | :---: | :---: |
+<p align="left">
+  <code><b>Yonggun Cho</b></code> &nbsp; <code><b>Inwook Shim</b></code> &nbsp; <code><b>Junwoo Jang</b></code> &nbsp; <code><b>Woojin Ahn</b></code>
+</p>
 
 ### Core Members
 `JaeYuk Seung (Lead)` · `Eunbyeol Ko` · `Eungkyu Kim` · `Mingyu Kim` · `Suhyeon Shin` · `Jihun An`
+
+<br/>
+
+## Participating Institutions
 
 <div align="center"> <table> <tr> <td align="center"><a href="https://rcv-inha.notion.site/webhome"><img src="/profile/assets/RCVLAB.png" height="50">
 
@@ -128,4 +111,5 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 
 <b>RILS Lab</b></a></td> </tr> </table> </div>
 
+---
 <div align="center"> Copyright © 2026 Inha-United. All Rights Reserved. </div>
