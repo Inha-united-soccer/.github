@@ -1,6 +1,6 @@
 <div align="center">
 
-# Inha-United-soccer
+# Inha-United-Soccer
 
 
 Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis Lab, and RILS Lab) </br> <div align="center">
