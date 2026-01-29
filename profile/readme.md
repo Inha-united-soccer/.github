@@ -113,7 +113,7 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
     </td>
     <td align="center" bgcolor="white">
       <a href="https://wjahn.github.io/rils/" target="_blank">
-        <img src="/profile/assets/RILS.png" width="130" height="80"/><br />
+        <img src="https://wjahn.github.io/rils/assets/images/logo_inha.png" width="130" height="80"/><br />
         <b>RILS Lab</b>
       </a>
     </td>
