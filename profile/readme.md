@@ -29,11 +29,6 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
   <a href="#"><img src="https://img.shields.io/badge/📄_Download_TDP_2026-orange?style=flat-square" /></a>
 </div>
 
-## Overview
-* ⚽️ [Team Website](https://inha-united-soccer.github.io/Soccer2026/)
-* 📷 [Our Youtube](https://www.youtube.com/@Inha-United_Soccer)
-* 📝 TDP is scheduled to be uploaded soon!
-
 </br>
 
 ## Hardware Platform: Booster K1
