@@ -3,7 +3,10 @@
 # Inha-United-soccer
 
 
-Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis Lab, and RILS Lab) </br> at **Inha University**, Incheon, South Korea.
+Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO Lab, Artemis Lab, and RILS Lab) </br> <div align="center">
+  <img src="https://img.shields.io/badge/Incheon-South Korea-005BAC?style=for-the-badge&logo=soccer" />
+  <img src="https://img.shields.io/badge/University-Inha_Univ-00AFEC?style=for-the-badge" />
+</div>
 
 
 </div>
@@ -20,8 +23,7 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 ## About Inha-United
 **Inha-United** is a multidisciplinary research powerhouse at **Inha University**, South Korea. We represent a strategic alliance of four leading laboratories specializing in Robotics, Computer Vision, and Autonomous Systems.
 
-* **Goal:** Developing robust, high-performance humanoid soccer robots for the RoboCup Humanoid League.
-* **Synergy:** Integration of Perception, Decision Making, and Dynamic Motion Control.
+</br>
 
 <div align="center">
   <a href="https://inha-united-soccer.github.io/Soccer2026/"><img src="https://img.shields.io/badge/🌐_Official_Website-00529B?style=flat-square" /></a>
@@ -29,7 +31,6 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
   <a href="#"><img src="https://img.shields.io/badge/📄_Download_TDP_2026-orange?style=flat-square" /></a>
 </div>
 
-</br>
 
 ## Hardware Platform: Booster K1
 
