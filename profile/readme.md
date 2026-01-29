@@ -13,7 +13,7 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 
 <div align="center">
 
-<img src="assets/soccer_team.jpeg" width="700"/>
+<img src="assets/soccer_team.jpeg" width="800"/>
 
 <sub><b>Inha-United@Soccer</b></sub>
 
