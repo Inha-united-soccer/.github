@@ -23,14 +23,10 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 ## About Inha-United
 **Inha-United** is a multidisciplinary research powerhouse at **Inha University**, South Korea. We represent a strategic alliance of four leading laboratories specializing in Robotics, Computer Vision, and Autonomous Systems.
 
-</br>
-
-<div align="center">
   <a href="https://inha-united-soccer.github.io/Soccer2026/"><img src="https://img.shields.io/badge/🌐_Official_Website-00529B?style=flat-square" /></a>
   <a href="https://www.youtube.com/@Inha-United_Soccer"><img src="https://img.shields.io/badge/📺_YouTube_Channel-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/📄_Download_TDP_2026-orange?style=flat-square" /></a>
-</div>
-
+</br>
 
 ## Hardware Platform: Booster K1
 
