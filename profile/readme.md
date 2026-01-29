@@ -10,7 +10,7 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 
 <div align="center">
 
-<img src="assets/soccer_team.jpeg" width="800"/>
+<img src="assets/soccer_team.jpeg" width="700"/>
 
 <sub><b>Inha-United@Soccer</b></sub>
 
@@ -107,4 +107,8 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 <b>RILS Lab</b></a></td> </tr> </table> </div>
 
 ---
+<div align="center">
+<img width="250" height="" alt="image" src="https://github.com/user-attachments/assets/16d3267a-6113-45da-9731-bf422aa9eaa5" />
+</div>
+
 <div align="center"> Copyright © 2026 Inha-United. All Rights Reserved. </div>
