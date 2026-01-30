@@ -27,14 +27,14 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 |---|---|
 | **🌐 Website** | <a href="https://inha-united-soccer.github.io/Soccer2026/"><img src="https://img.shields.io/badge/Official_Website-00529B?style=flat" height="24"/></a> |
 | **📺 YouTube** | <a href="https://www.youtube.com/@Inha-United_Soccer"><img src="https://img.shields.io/badge/YouTube_Channel-FF0000?style=flat&logo=youtube&logoColor=white" height="24"/></a> |
-| **📄 TDP 2026** | <a href="#"><img src="https://img.shields.io/badge/Team_Description_Paper-FFA500?style=flat" height="24"/></a> |
+| **📄 TDP 2026** | <a href="/profile/assets/Inha_United_team_description_paper.pdf"><img src="https://img.shields.io/badge/Team_Description_Paper-FFA500?style=flat" height="24"/></a> |
 
 </br>
 
 ## Software Description
 We continuously update and share the detailed software specifications of our overall system to contribute to the technical advancement and knowledge sharing within the RoboCup community.
 
-<a href="#"><img src="https://img.shields.io/badge/📄Team_Description_Paper-67d467?style=flat" height="30"/></a>
+<a href="/profile/assets/software-description-paper.pdf"><img src="https://img.shields.io/badge/📄Software_Description_Paper-67d467?style=flat" height="30"/></a>
 
 [Last Updated: 2026-01-31]
 
