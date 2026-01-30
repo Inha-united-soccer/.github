@@ -97,7 +97,7 @@ Last Updated: 2026-01-31
 </p>
 
 ### Core Members
-`JaeYuk Seung (Lead)` · `Eunbyeol Ko` · `Eungkyu Kim` · `Mingyu Kim` · `Suhyeon Shin` · `Jihun An`
+`JaeYuk Seung (Lead)`  `Eunbyeol Ko`  `Eungkyu Kim`  `Mingyu Kim`  `Suhyeon Shin`  `Jihun An`
 
 <br/>
 
