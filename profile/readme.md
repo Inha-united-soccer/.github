@@ -23,20 +23,38 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 ## About Inha-United
 **Inha-United** is a multidisciplinary research powerhouse at **Inha University**, South Korea. We represent a strategic alliance of four leading laboratories specializing in Robotics, Computer Vision, and Autonomous Systems.
 
+<p>
+<b>🌐 Website :</b>
 <a href="https://inha-united-soccer.github.io/Soccer2026/">
-  <img src="https://img.shields.io/badge/🌐_Official_Website-00529B?style=flat"
-       style="border-radius:999px; padding:4px;" />
+  <img
+    src="https://img.shields.io/badge/Official_Website-00529B?style=flat"
+    height="24"
+    style="vertical-align:middle; border-radius:12px;"
+  />
 </a>
+</p>
 
+<p>
+<b>📺 YouTube :</b>
 <a href="https://www.youtube.com/@Inha-United_Soccer">
-  <img src="https://img.shields.io/badge/📺_YouTube_Channel-FF0000?style=flat&logo=youtube&logoColor=white"
-       style="border-radius:999px; padding:4px;" />
+  <img
+    src="https://img.shields.io/badge/YouTube_Channel-FF0000?style=flat&logo=youtube&logoColor=white"
+    height="24"
+    style="vertical-align:middle; border-radius:12px;"
+  />
 </a>
+</p>
 
+<p>
+<b>📄 TDP 2026 :</b>
 <a href="#">
-  <img src="https://img.shields.io/badge/📄_TDP_2026-FFA500?style=flat"
-       style="border-radius:999px; padding:4px;" />
+  <img
+    src="https://img.shields.io/badge/Technical_Description_Paper-FFA500?style=flat"
+    height="24"
+    style="vertical-align:middle; border-radius:12px;"
+  />
 </a>
+</p>
 
 </br>
 
