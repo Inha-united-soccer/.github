@@ -32,7 +32,7 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 </br>
 
 ## Detailed Team Description Paper
-We continuously update and share the detailed software specifications of our overall system to contribute to the technical advancement and knowledge sharing within the RoboCup community.
+We continuously update and share the detailed team description paper of our overall system to contribute to the technical advancement and knowledge sharing within the RoboCup community.
 
 <a href="/profile/assets/Inha_United_detailed_tdp.pdf"><img src="https://img.shields.io/badge/📄 Detailed Team_Description_Paper-67d467?style=flat" height="30"/></a>
 
