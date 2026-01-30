@@ -29,8 +29,14 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 | **📺 YouTube** | <a href="https://www.youtube.com/@Inha-United_Soccer"><img src="https://img.shields.io/badge/YouTube_Channel-FF0000?style=flat&logo=youtube&logoColor=white" height="24"/></a> |
 | **📄 TDP 2026** | <a href="#"><img src="https://img.shields.io/badge/Technical_Description_Paper-FFA500?style=flat" height="24"/></a> |
 
+🌐 **Website**  
+  <a href="https://inha-united-soccer.github.io/Soccer2026/"><img src="https://img.shields.io/badge/Official_Website-00529B?style=flat" height="24"/></a>
 
-</br>
+📺 **YouTube**  
+  <a href="https://www.youtube.com/@Inha-United_Soccer"><img src="https://img.shields.io/badge/YouTube_Channel-FF0000?style=flat&logo=youtube&logoColor=white" height="24"/></a>
+
+📄 **TDP 2026**  
+  <a href="#"><img src="https://img.shields.io/badge/Technical_Description_Paper-FFA500?style=flat" height="24"/></a>
 
 
 ## Hardware Platform: Booster K1
@@ -68,11 +74,6 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 We continuously update and share the detailed software specifications of our overall system to contribute to the technical advancement and knowledge sharing within the RoboCup community.
 
 <a href="#"><img src="https://img.shields.io/badge/📄_Download_SDP_2026-yellow?style=flat-square" /></a>
-
-
-- **Technical Description**  
-  <a href="#"><img src="https://img.shields.io/badge/Technical Description-00529B?style=flat" height="24"/></a>
-
 
 Last Updated: 2026-01-31
 
