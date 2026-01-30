@@ -31,10 +31,11 @@ Welcome! ✋ We are **Inha-United**, a multi-lab research group (RCV Lab, SPARO 
 
 </br>
 
-## Technical Description
+## Software Description
 We continuously update and share the detailed software specifications of our overall system to contribute to the technical advancement and knowledge sharing within the RoboCup community.
 
-<a href="#"><img src="https://img.shields.io/badge/📄_Download_SDP_2026-yellow?style=flat-square" /></a>
+- 📄 **Link**  
+<a href="#"><img src="https://img.shields.io/badge/📄Team_Description_Paper-50e53c?style=flat" height="30"/></a>
 
 Last Updated: 2026-01-31
 
