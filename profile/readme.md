@@ -139,4 +139,6 @@ Last Updated: 2026-01-31
 <img width="250" height="" alt="image" src="https://github.com/user-attachments/assets/16d3267a-6113-45da-9731-bf422aa9eaa5" />
 </div>
 
-<div align="center"> Copyright © 2026 Inha-United. All Rights Reserved. </div>
+<div align="center"> Copyright © 2026 Inha-United. <br>
+  Repositories under this organization are released under the Apache License 2.0. </div>
+
